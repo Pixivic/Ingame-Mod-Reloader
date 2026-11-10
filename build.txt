@@ -1,0 +1,5 @@
+displayName = In-Game Mod Reloader
+author = Pixivic
+version = 0.1.17
+side = Client
+buildIgnore = README.md, ~$README.md

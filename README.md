@@ -1,0 +1,6 @@
+# In-game Mod Reloader v0.1.0
+Makes reloading mods easier while in game.
+
+- Reload mods while in game by clicking the tool box on the bottom left corner when inventory is open.
+- You can favorite mods so they always shows up on top saving you time finding them. 
+

@@ -1,0 +1,5 @@
+compile_temp/
+bin/
+obj/
+*.tmod
+~$*
